@@ -17,6 +17,7 @@ Implement a simple servlet-based web application.
 Each group will have to:
 
 
+
 Tutorial: Follow a brief tutorial about how to develop the back end (server side) of a web applications with servlets and Tomcat 9.
 
 Assignment (basic part): Complete the lab assignment consisting on developing a simple car rental web application. 
